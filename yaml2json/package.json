@@ -1,0 +1,23 @@
+{
+  "name": "yaml2json",
+  "version": "1.0.0",
+  "description": "yaml to json converter",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-formidable": "^1.2.0",
+    "js-yaml": "^4.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Revana-Siddesh-Bathi/yaml2json.git"
+  },
+  "author": "Revana-Siddesh",
+  "bugs": {
+    "url": "https://github.com/Revana-Siddesh-Bathi/yaml2json/issues"
+  },
+  "homepage": "https://github.com/Revana-Siddesh-Bathi/yaml2json#readme"
+}
